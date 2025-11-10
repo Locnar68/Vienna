@@ -1,0 +1,2 @@
+# MCP Python SDK - the official library for building MCP servers
+mcp>=0.9.0
